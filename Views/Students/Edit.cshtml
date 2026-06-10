@@ -1,0 +1,37 @@
+@model StudentManagementSystem.Models.Student
+<span asp-validation-for="Name"></span>
+<span asp-validation-for="Email"></span>
+<span asp-validation-for="Course"></span>
+<span asp-validation-for="Phone"></span>
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+
+    <div>
+        <label>Course</label>
+        <input asp-for="Course" />
+    </div>
+
+    <div>
+        <label>Phone</label>
+        <input asp-for="Phone" />
+    </div>
+
+    <br />
+
+    <button type="submit">Update</button>
+
+</form>
