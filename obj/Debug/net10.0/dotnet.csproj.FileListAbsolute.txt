@@ -231,3 +231,4 @@ C:\Users\phani\Downloads\StudentManagementSystem\obj\Debug\net10.0\refint\dotnet
 C:\Users\phani\Downloads\StudentManagementSystem\obj\Debug\net10.0\dotnet.pdb
 C:\Users\phani\Downloads\StudentManagementSystem\obj\Debug\net10.0\dotnet.genruntimeconfig.cache
 C:\Users\phani\Downloads\StudentManagementSystem\obj\Debug\net10.0\ref\dotnet.dll
+C:\Users\phani\Downloads\StudentManagementSystem\obj\Debug\net10.0\dotnet.sourcelink.json
