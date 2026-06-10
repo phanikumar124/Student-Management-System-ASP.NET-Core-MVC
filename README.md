@@ -51,7 +51,7 @@ Add screenshots of:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Student-Management-System-ASP.NET-Core-MVC.git
+git clone https://github.com/phanikumar124/Student-Management-System-ASP.NET-Core-MVC.git
 
 2. Open project folder
 
